@@ -1,0 +1,17 @@
+So... What is Python?
+
+Python is a programming language that is used around the world in both
+educational and practical settings. Python is one of the big three 
+languages that Google uses, and is well regarded as one of the best 
+'Learning Languages'. Python was initially designed to be an easy
+to read language, and therefore is understandable without the excesive
+commenting that is neccessary for some other languages. That means 
+that if I look at the code that you wrote in Python I should be able
+to figure out what is does (but good efficient commenting certainly 
+helps).
+
+Below we've inserted some select text from the Pyhton Wikipedia Page:
+Find the page here (wikipedia.org/python)
+
+
+
