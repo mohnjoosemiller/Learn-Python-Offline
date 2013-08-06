@@ -1,0 +1,5 @@
+Welcome to the Project LEAD Python Repository. If you have dowloaded this from github, GREAT, if this has come on your SD card (some Raspberry Pi users), thank you for the download.
+
+Here's a sequenced list of what you need to do in order to have the most productive experience possible.
+
+ - Create a folder on your desktop where you can keep all of your pyhton programs. This should be separate from your 

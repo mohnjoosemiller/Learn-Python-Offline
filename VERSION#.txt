@@ -1,0 +1,7 @@
+Current Release as of 8-6-2013 is version: 0.0.3
+Current Release as of 8-1-2013 is version: 0.0.2
+Current Release as of 7-31-2013 is version: 0.0.1
+
+Release notes:
+
+Currently under development are the lessons for Level_1 and the Challenges for Level_0
