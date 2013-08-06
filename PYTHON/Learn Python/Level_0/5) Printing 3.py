@@ -14,9 +14,17 @@
 
 x = 1
 while (x <= 10):
-    print (str(x)+"\n"+str(1**x)+str(2**x)+ str(3**x)+ str(4**x)+str(5**x))
+    print (str(x)+"\n"+str(1**x)+"," +str(2**x)+","+ str(3**x))
     x += 1
     pass
 
 #What's nice about this format is that it is
 #.CSV compatable. But more on this later.
+
+
+
+#########
+#Pro-tip#
+#########
+
+#CSV stands for comma separated value

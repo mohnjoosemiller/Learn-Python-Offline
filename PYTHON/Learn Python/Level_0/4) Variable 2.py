@@ -14,4 +14,4 @@ x= "Cheese" #x is now the string 'cheese'
 print (x)
 
 #Clearly variables can be manipoulated easily,
-#they are also very powerful tools 
+#this can make them very useful

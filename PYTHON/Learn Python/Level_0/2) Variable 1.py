@@ -18,8 +18,7 @@ print (x)
 #number of variables. Try uncommenting the following 3 lines
 
 A_New_Variable = 778 #Note that variables can even be words w/o spaces
-#print (A_New_Variable)
-#print (x)
+print (A_New_Variable)
 
 #Clearly Python can handle 2 variables no problem (it can handle ANY #)
 #Recomment the last 2 print functions

@@ -14,9 +14,24 @@ x = 'I '
 y = 'like '
 z = 'programming!!!'
 
-print (x, y, z)
+print x, y, z
 
 #interesting what comes out right? this can
 #be incredibly useful when you are outputting
 #large amounts of data, but still want 
 #organization.
+
+a = 1 
+b = 42
+c = 'dog'
+
+print a, b, c #Here's an example of Python
+###############being able to distinguish
+###############two types of data
+
+######
+#Note#
+######
+
+#There are strings and variables. variables
+#are numbers, and strings are held within quotes

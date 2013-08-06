@@ -12,9 +12,9 @@ print 'y = 6'############information
 z = 42
 print ('z = ', z)
 
-print (x/y, 'x/y')#Operations can be done within 
-print (x*y, 'x*y')#the print command.
+print (x/y, '=x/y')#Operations can be done within 
+print (x*y, '=x*y')#the print command.
 
-print z/y, 'z/y', z/x, 'z/x' #w/o '()' the output
+print z/y, '=z/y', z/x, '=z/x' #w/o '()' the output
                             ##looks different
 
