@@ -6,17 +6,15 @@ Level 0 is all about getting the basics down. Variables, Loops, and Printing are
 Current Stage
 =============
 
- - Development of lessons
+ - Debugging Lessons
 
 Next Stage(s)
 =============
 
- - Debugging lessons
  - Developing Challenges
  - Debugging Challenges
 
 Completed Stages
 ================
 
- - NONE
- 
+ - Development of Lessons
