@@ -11,13 +11,16 @@
 #For Example
 
 x = 0
-while (x < 10):
+while (x<10):
         print (x)
-	x += 1 #using += can save time programming when
-	########you want to add a number to a variable
+        x += 1 #using += can save time programming when
+################you want to add a number to a variable
 	########you coul also format it like below 
 	########		x = x + 1 
 	########but this take more time (so why do it)
+        
+
+
 
 #First, predict what you think this will do.
 #Run this program to see what it does.

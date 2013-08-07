@@ -14,7 +14,7 @@ x = 'I '
 y = 'like '
 z = 'programming!!!'
 
-print x, y, z
+print (x, y, z)
 
 #interesting what comes out right? this can
 #be incredibly useful when you are outputting
@@ -25,7 +25,7 @@ a = 1
 b = 42
 c = 'dog'
 
-print a, b, c #Here's an example of Python
+print (a, b, c) #Here's an example of Python
 ###############being able to distinguish
 ###############two types of data
 

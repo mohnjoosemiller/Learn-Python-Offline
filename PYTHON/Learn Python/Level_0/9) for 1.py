@@ -5,18 +5,18 @@
 #We have already learned 'while' loops but for
 #many things 'for' loops will be a better fit
 
-print('First output\n')
+print('First loop\n')
 for x in range(10): #What we are saying here is
     #################for a certaing range of x
     #################values do something
     print(x)#Here our output is simply x to show
     #########how the for loop works
-print '\n\n Second output \n'
+print ('\n\n Second loop \n')
 for x in range(1, 10):
-    print x
-print '\n\n','Third loop \n'
+    print (x)
+print ('\n\n','Third loop \n')
 for x in range(1, 20, 2):
-    print 'x =', x #just to give a little flavour
+    print ('x =', x) #just to give a little flavour
     ################I've added some formating
     pass
 
