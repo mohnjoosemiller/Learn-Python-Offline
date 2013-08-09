@@ -1,0 +1,13 @@
+Project LEAD (Learn Everything Applying DIY) is an Illinois Non-Profit that aims to make STEM (Science Technology Engineering and Math) fields more interesting by featuring interesting and informative content.
+
+Project LEAD produces YouTube (youtube.coma/user/ProjectLEADiit) videos on a range of topics, but with a particular focus on microcomputing platforms like the Raspberry Pi and BeagleBone Black. We've focused on these areas because they do not require an excessive financial commitment, but offer a wide variety of interesting and useful projects.
+
+Project LEAD's main page to get information about what we are doing is Facebook (facebook.com/iitProjectLEAD). In addition to sharing information about our videos, and projects (like this repository), we also share STEM realted news that we find interesting.
+
+We highly encourage people to follow us in both of these places so that you know the latest that is happening all the time. We also post regularly when we release an important build of our repository.
+
+Contacting Project LEAD is pretty simple. The best way is to message the page. Notifications get sent to my (John) phone, and usually I'll get back pretty quick. Also we post nearly every day and often 2-3 times/day so we'll be on the page.
+
+You can also email Project LEAD. Again this gets forwarded to my (John) personal inbox, so I shoudl get back to that quickly unless I'm on a E-purge (AKA any vacation I can get ;) ) Project LEAD's email is: ProjectLEADiit@gmail.com This is best for communication if you have longer questions, or information. OR if you are communicating on behalf of a company or organization.
+
+If you have questions about this repository, or if you see an error/bug report it and we'll get right on it. We have daily builds, so any fixes should be implemented in a few days.
