@@ -1,8 +1,4 @@
-Well would you look at that, another sample file!
-
-Want to hear a sad story? Too bad, this is already programmed!
-
-Once there was a kid that had to ride the train EVERY day for
-7 weeks. Then one day, the summer was over and he couldn't 
-ride the train any more
-
+Line 1
+Line 2
+Line 3
+LINE 4

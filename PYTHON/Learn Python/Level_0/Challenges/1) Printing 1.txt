@@ -1,0 +1,9 @@
+Alright so now it's time for your first challenge. There will be one or even multiple challenge files for each file teaching a new concept.
+
+For each challenge you should create a unique python file. In addition, this file should not be located within the file system of this repository. The easiest thing to do is to create a folder on the desktop, and save your work there.
+
+So... as we've see you can print text to the Python interpreter. Try to make the python interpreter output the following (w/o quotes)
+
+"Project LEAD is based in Chicago"
+
+

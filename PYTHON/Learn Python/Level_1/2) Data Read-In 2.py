@@ -10,7 +10,7 @@
 
 #An example:
 
-f = open('Sample_1.txt', 'r')#last time we didn't include a
+f = open('Sample_2.txt', 'r')#last time we didn't include a
 ##############################second argument, 'r' tells Pyhton
 ##############################to open a file in read-only mode
 

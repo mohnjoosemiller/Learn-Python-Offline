@@ -5,7 +5,7 @@
 #Python is capable of handling files well
 #Reading files is pretty easy.
 
-f = open('Sample.txt')#There can be more arguments than we have here
+f = open('Sample_1.txt')#There can be more arguments than we have here
 #######################But for now we have opened Sample in read mode
 #######################Sample is in the same folder as this program
 
