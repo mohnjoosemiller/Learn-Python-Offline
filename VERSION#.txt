@@ -1,3 +1,4 @@
+Current Release as of 8-7-2013 is version: 0.0.4.1 (added misc)
 Current Release as of 8-7-2013 is version: 0.0.4.0 (added code, added challenge)
 Current Release as of 8-7-2013 is version: 0.0.3.1 (ported code)
 Current Release as of 8-6-2013 is version: 0.0.3.0 (added code)
