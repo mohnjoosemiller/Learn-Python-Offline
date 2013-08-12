@@ -15,3 +15,49 @@ Find the page here (wikipedia.org/python)
 
 
 
+Development environments:
+=========================
+
+Most Python implementations (including CPython) can function as a command line interpreter, for which the user enters statements sequentially and receives the results immediately. In short, Python acts as a shell.
+
+Other shells add capabilities beyond those in the basic interpreter, including IDLE and IPython. While generally following the visual style of the Python shell, they implement features like auto-completion, retention of session state, and syntax highlighting.
+
+In addition to standard desktop Python IDEs (integrated development environments), there are also browser-based IDEs, Sage, (intended for developing science and math-related Python programs), and a hosted IDE, pythonAnywhere.
+
+
+
+Implementations:
+================
+
+The main Python implementation, named CPython, is written in C meeting the C89 standard.[57] It compiles Python programs into intermediate bytecode,[58] which is executed by the virtual machine.[59] CPython is distributed with a large standard library written in a mixture of C and Python. It is available in versions for many platforms, including Microsoft Windows and most modern Unix-like systems. CPython was intended from almost its very conception to be cross-platform.[60]
+
+PyPy is a fast, compliant[61] interpreter of Python 2.7. Its just-in-time compiler brings a significant speed improvement over CPython.[62] A version taking advantage of multi-core processors using software transactional memory is in the works.[63]
+
+Stackless Python is a significant fork of CPython that implements microthreads; it does not use the C memory stack, thus allowing massively concurrent programs. PyPy also has a stackless version.
+
+
+
+Use:
+====
+
+Since 2008, Python has consistently ranked in the top eight most popular programming languages as measured by the TIOBE Programming Community Index.[11] It is the third most popular language whose grammatical syntax is not predominantly based on C, e.g. C++, C#, Objective-C, Java. Python does borrow heavily, however, from the expression and statement syntax of C, making it easier for programmers to transition between languages.
+
+An empirical study found that, for a programming problem involving string manipulation and search in a dictionary, scripting languages such as Python were more productive than conventional languages such as C and Java. Memory consumption was often "better than Java and not much worse than C or C++".[74] Large organizations that make use of Python include Google,[75] Yahoo!,[76] CERN,[77] NASA,[78], and some smaller ones like ILM,[79] and ITA.[80]
+
+Python is used as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server.[81] With Web Server Gateway Interface, a standard API has been developed to facilitate these applications. Web application frameworks like Django, Pylons, Pyramid, TurboGears, web2py, Tornado, Flask and Zope support developers in the design and maintenance of complex applications. Pyjamas and IronPython can be used to develop the client-side of Ajax-based applications. SQLAlchemy can be used as data mapper to a relational database. Twisted is a framework to program communications between computers, and is used for example by Dropbox.
+
+Libraries like NumPy, SciPy and Matplotlib allow Python to be used effectively in scientific computing. Sage is a mathematical software with a "notebook" programmable in python: its library covers many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
+
+Python has been successfully embedded in a number of software products as a scripting language, including in finite element method software such as Abaqus, 3D animation packages such as Blender, Cinema 4D, Lightwave, Houdini, Maya, modo, MotionBuilder, Softimage, the visual effects compositor Nuke, and 2D imaging programs like GIMP[82] , Inkscape, Scribus and Paint Shop Pro.[83] GNU Debugger uses Python as a pretty printer to show complex structures such as C++ containers. Esri is now promoting Python as the best choice for writing scripts in ArcGIS.[84] It has even been used in several video games,[85][86] and has been adopted as first of the three available programming languages in Google App Engine, the other two being Java and Go.[87]
+
+Python has also been used in artificial intelligence tasks.[88][89][90][91] Thanks to being a scripting language with module architecture, syntax simplicity and rich text processing tools, Python is often used for natural language processing tasks.[92]
+
+For many operating systems, Python is a standard component; it ships with most Linux distributions, AmigaOS 4, FreeBSD, NetBSD, OpenBSD and OS X, and can be used from the terminal. A number of Linux distributions use installers written in Python: Ubuntu uses the Ubiquity installer, while Red Hat Linux and Fedora use the Anaconda installer. Gentoo Linux uses Python in its package management system, Portage. Pardus uses it for administration and during system boot.[93]
+
+Python has also seen extensive use in the information security industry, including exploit development.[94]
+
+Most of the Sugar software for the One Laptop per Child XO, now developed at Sugar Labs, is written in Python.[95]
+
+The Raspberry Pi single-board computer project has adopted Python as its principal user programming language.
+
+LibreOffice included Python and intends to replace Java with Python. Python Scripting Provider is a core feature[96] since Version 4.0 from 7 February 2013
