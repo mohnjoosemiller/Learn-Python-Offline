@@ -1,0 +1,9 @@
+We want you to interact with variables, so starting with 2 different variables, one equalling 26 and the other equalling 17. Create a program that will multiply them, divide them, add them and subtract them.
+
+
+
+Your final answer should look like this...
+
+442 1.5294117647058822 43 9
+OR.....
+442 0.6538461538461539 43 -9

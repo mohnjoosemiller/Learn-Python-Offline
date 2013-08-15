@@ -3,7 +3,7 @@
 ####
 
 #Many variables can exist at once so 
-#we can see houw they combine.
+#we can see how they combine.
 
 x = 7
 print ('x = ', x) ###Notice the different
@@ -15,6 +15,4 @@ print ('z = ', z)
 print (x/y, '=x/y')#Operations can be done within 
 print (x*y, '=x*y')#the print command.
 
-print (z/y, '=z/y', z/x, '=z/x') #w/o '()' the output
-                            ######looks different
-
+print (z/y, '=z/y', z/x, '=z/x') 

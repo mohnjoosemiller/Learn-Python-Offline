@@ -1,0 +1,17 @@
+make a program that will print out the following operations using 15 as you variable. For now ou can do the operation however you want. 
+
+divided by 2
+times 23
+minus 45
+plus 43
+to the 24
+
+
+
+These operations should yeild the following:
+
+7.5
+345
+-30
+58
+16834112196028232574462890625
