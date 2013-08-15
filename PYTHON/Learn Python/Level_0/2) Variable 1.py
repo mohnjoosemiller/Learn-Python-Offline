@@ -15,7 +15,7 @@ print (x)
 #Just as we suspected this produces '0'
 
 #A great thing about programming languages is that you have an unlimited 
-#number of variables. Try uncommenting the following 3 lines
+#number of variables. 
 
 A_New_Variable = 778 #Note that variables can even be words w/o spaces
 print (A_New_Variable)

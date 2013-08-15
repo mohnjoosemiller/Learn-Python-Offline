@@ -1,0 +1,10 @@
+Congratulations on your success on learning how to print. Ass you can see from the example code we'll be using print().
+
+Using the prining of variables get IDLE to print this.
+
+3
+42
+13
+24
+
+Have fun!
