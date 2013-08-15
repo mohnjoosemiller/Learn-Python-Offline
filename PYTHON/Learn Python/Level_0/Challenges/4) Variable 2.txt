@@ -1,0 +1,3 @@
+Using three different variables (2 strings and an integer), and printing print the following, 
+
+I LOVE Programming 7 days a week!
