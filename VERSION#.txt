@@ -1,3 +1,4 @@
+Current Release as of 8-16-2013 is version: 0.1(a).0.1 (added misc)
 Current Release as of 8-15-2013 is version: 0.1(a).0.0 (Primitive alpha build of Level_0)
 Current Release as of 8-14-2013 is version: 0.0.5.2 (Code edits and added challenges)
 Current Release as of 8-11-2013 is version: 0.0.4.2 (added/edited misc)
@@ -14,7 +15,7 @@ Currently under development are the lessons for Level_1 and the Challenges for L
 
 Our release structure:
 In form w.x.y.z:
-w: change indicates a new language is added
-x: New Levels are ready
+w: change indicates a new language is fully functional.
+x: New levels are ready (a): alpha build which lacks full content (b): beta build with full content but unchecked for glitches 
 y: Change idicates creation of files/material
 z: change indicates small updates to the code, bug fixes etc.
