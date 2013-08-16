@@ -11,7 +11,7 @@
 #fine if you don't know)
 
 x = 'I '
-y = 'like '
+y = 'like'
 z = 'programming!!!'
 
 print (x, y, z)
@@ -33,5 +33,5 @@ print (a, b, c) #Here's an example of Python
 #Note#
 ######
 
-#There are strings and variables. variables
+#There are strings and integers. integers
 #are numbers, and strings are held within quotes

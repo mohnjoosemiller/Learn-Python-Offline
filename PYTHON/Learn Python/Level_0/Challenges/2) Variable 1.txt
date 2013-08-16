@@ -1,6 +1,6 @@
 Congratulations on your success on learning how to print. Ass you can see from the example code we'll be using print().
 
-Using the prining of variables get IDLE to print this.
+Using the printing of variables get IDLE to print this.
 
 3
 42

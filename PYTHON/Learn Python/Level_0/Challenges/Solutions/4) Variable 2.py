@@ -1,4 +1,6 @@
-x= "I LOVE Programming"
-y = 7
-z = "days a week!"
-print (x, y, z)
+x= "I"
+print(x)
+x="LOVE"
+print(x)
+x="CHEESE!"
+print(x)

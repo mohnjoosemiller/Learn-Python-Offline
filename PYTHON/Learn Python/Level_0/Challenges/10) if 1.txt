@@ -1,0 +1,10 @@
+create a program that asks the number of states in the USA... if the correct answer is put in (50), give a positive feedback, and if an answer is incorrect give back a negative response.
+
+For example:
+
+(given the number 50)
+Congrats, that's correct!
+
+(given the number 23)
+You crazy? 
+

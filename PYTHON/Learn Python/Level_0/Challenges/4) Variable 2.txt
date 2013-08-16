@@ -1,3 +1,5 @@
-Using three different variables (2 strings and an integer), and printing print the following, 
+Create a program that (using only 1 variable) will print the following.
 
-I LOVE Programming 7 days a week!
+I
+LOVE
+CHEESE!

@@ -1,0 +1,3 @@
+Using a combination of variables (2 strings, and an integer) create a program that will print the following.
+
+Project LEAD has 3 Members
