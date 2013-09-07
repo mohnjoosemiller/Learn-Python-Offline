@@ -1,0 +1,13 @@
+create a program that will print out 2 lists. one the list of the first 5 prime numbers, and the second a list of 1-5 cubed.
+
+the output should look like this.
+
+[2, 3, 5, 7, 11] [1, 8, 27, 64, 125]
+
+or this:
+
+[2, 3, 5, 7, 11] 
+[1, 8, 27, 64, 125]
+
+
+Tip: don't feel like you have to generate the numbers using the program (although we will do this in a later challenge), you can just add them to the list like in the example
