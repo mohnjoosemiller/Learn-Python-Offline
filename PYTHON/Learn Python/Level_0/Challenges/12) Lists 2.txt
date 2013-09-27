@@ -1,0 +1,1 @@
+Lists are a very useful way to store, and then release information. Here we want to you create a list that will contain all output values of the following function when x is an integer 
