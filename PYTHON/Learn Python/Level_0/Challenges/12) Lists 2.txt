@@ -1,1 +1,9 @@
-Lists are a very useful way to store, and then release information. Here we want to you create a list that will contain all output values of the following function when x is an integer 
+Lists are a very useful way to store, and then release information. Here we want to you create a list that will contain all output values of the following function when x is an integer between 0-9
+
+x^3+2x
+
+
+You result should be:
+
+[0, 3, 12, 33, 72, 135, 228, 357, 528, 747]
+
