@@ -1,4 +1,5 @@
-Current Release as of 9-7-2013 is version: 0.1(a).1.0
+Current Release as of 10-6-2013 is version: 0.1(a).2.0 (added code)
+Current Release as of 9-7-2013 is version: 0.1(a).1.0 (added code)
 Current Release as of 8-16-2013 is version: 0.1(a).0.1 (added misc)
 Current Release as of 8-15-2013 is version: 0.1(a).0.0 (Primitive alpha build of Level_0)
 Current Release as of 8-14-2013 is version: 0.0.5.2 (Code edits and added challenges)
