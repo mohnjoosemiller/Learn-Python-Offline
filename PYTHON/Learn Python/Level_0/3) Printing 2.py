@@ -35,3 +35,4 @@ print (a, b, c) #Here's an example of Python
 
 #There are strings and integers. integers
 #are numbers, and strings are held within quotes
+#and are text, so you can't multiply strings.

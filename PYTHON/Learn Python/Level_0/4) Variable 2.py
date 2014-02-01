@@ -13,5 +13,5 @@ print (x)
 x= "Cheese" #x is now the string 'cheese'
 print (x)
 
-#Clearly variables can be manipoulated easily,
+#Clearly variables can be manipulated easily,
 #this can make them very useful
