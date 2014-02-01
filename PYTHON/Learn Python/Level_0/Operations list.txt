@@ -1,4 +1,5 @@
-There are a lot of ways that you can involve a variable in function.
+There are a lot of ways that you can involve a variable 
+in function.
 
 Here's a list of common ways:
 
@@ -13,5 +14,6 @@ greater than: x>y
 less than: x<y
 greater than or equal to: x>=y
 less than or equal to: x<=y
-not equal to: x!=y (in programming '!' is called 'bang'
+not equal to: x!=y (in programming '!' is called 'bang' 
+when speaking aloud)
  
