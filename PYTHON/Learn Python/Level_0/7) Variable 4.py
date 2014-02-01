@@ -3,7 +3,8 @@
 ####
 
 #Many variables can exist at once so 
-#we can see how they combine.
+#we can see how they combine, and notice some
+#syntax (AKA formatting) that can be used
 
 x = 7
 print ('x = ', x) ###Notice the different

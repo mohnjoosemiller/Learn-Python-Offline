@@ -15,10 +15,10 @@ while (x<10):
         print (x)
         x += 1 #using += can save time programming when
 ################you want to add a number to a variable
-	########you coul also format it like below 
+	########you could also format it like below 
 	########		x = x + 1 
-	########but this take more time (so why do it)
-        
+	########but this takes more time (so why do it)
+
 
 
 
