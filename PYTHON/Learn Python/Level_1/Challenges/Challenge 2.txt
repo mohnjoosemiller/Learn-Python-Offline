@@ -1,0 +1,4 @@
+Create a code that will allow the user to input a 
+number of lines of a file that they want to read, 
+and then read that many lines of the file "Trial.txt"
+
