@@ -6,4 +6,4 @@ There are a TON of free online resources that can help teach you Python. However
 Release
 =======
 
-Current Release as of 2-8-2014 is version: 0.1(a).3.1  
+Current Release as of 3-7-2014 is version: 0.1(a).4.0  
